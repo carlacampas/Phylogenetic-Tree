@@ -1,0 +1,5 @@
+./program.exe <sample_intermedia.inp >out.cor
+diff -bB sample_intermedia.cor out.cor
+
+./program.exe <sample.inp >out.cor
+diff -bB sample.cor out.cor
