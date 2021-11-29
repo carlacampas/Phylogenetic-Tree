@@ -1,1 +1,3 @@
-# PRO2-practica
+# Phylogenetic Tree
+
+Given a set of species returns a Phylogenetic Tree.
